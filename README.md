@@ -59,7 +59,7 @@ Until this lands on PyPI: copy `auto_recovering_quarantine.py` into your project
 
 ## The story
 
-A longer war-story post walks through how this pattern emerged from a real `ccxt` incident — timeline, diagnostic process, the gate-order bug it exposed along the way. Forthcoming as the first post in a Build-in-Public series; link will land here when published.
+📖 **[My bot ran for 48 hours and didn't do a thing](./WRITEUP.md)** — the full war story: how this pattern emerged from a real `ccxt` socket-hang, the diagnostic process, and the gate-order bug it exposed along the way.
 
 ## License
 
